@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ogame-blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://ogame-blog-demo.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 20 Jan 2019 20:13:34 GMT</lastBuildDate><item><title><![CDATA[Introduction à Ogame]]></title><description><![CDATA[Nous allons dans ce blog aborder les fondamentales de Ogame. Les différents mots clés du jeu Les différentes façon de jouer Les tips & trick…]]></description><link>https://ogame-blog-demo.netlify.com//introduction/</link><guid isPermaLink="false">https://ogame-blog-demo.netlify.com//introduction/</guid><pubDate>Sat, 20 Jan 2018 22:21:00 GMT</pubDate><content:encoded>&lt;p&gt;Nous allons dans ce blog aborder les fondamentales de Ogame.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/5979c/ogame-screen.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 480px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAeW0hVJMiv/EABkQAQEBAAMAAAAAAAAAAAAAAAIBAxAREv/aAAgBAQABBQLLJqLPyXe0WpK1x//EABYRAQEBAAAAAAAAAAAAAAAAAAEQUf/aAAgBAwEBPwFMn//EABYRAQEBAAAAAAAAAAAAAAAAAAEQUf/aAAgBAgEBPwEdn//EABoQAAICAwAAAAAAAAAAAAAAAAABECERMYH/2gAIAQEABj8CylQmuxTNx//EABkQAQADAQEAAAAAAAAAAAAAAAEAESFhcf/aAAgBAQABPyHRwQrFfGS0Vv2VJAgHHHWf/9oADAMBAAIAAwAAABDYH//EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAwEBPxBjYX//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QQ0j/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMVH/2gAIAQEAAT8QYu9DQkswm6XpmUvYqw16rYzeDQmVdZjEourP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Ogame screenshot&quot;
+        title=&quot;&quot;
+        src=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/5979c/ogame-screen.jpg&quot;
+        srcset=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/c0f52/ogame-screen.jpg 148w,
+/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/da7c2/ogame-screen.jpg 295w,
+/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/5979c/ogame-screen.jpg 480w&quot;
+        sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les différents mots clés du jeu&lt;/li&gt;
+&lt;li&gt;Les différentes façon de jouer&lt;/li&gt;
+&lt;li&gt;Les tips &amp;#x26; trick relatif au bon début de jeu&lt;/li&gt;
+&lt;li&gt;et beaucoup d’autre points.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ma petite histoire!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;j’ai beaucoup joué ce jeu, et je suis monté dans le top 100 sur certains serveurs.&lt;/p&gt;
+&lt;p&gt;Avec plus de 8 Millions de point sur mon plus gros compte, j’ai pu apprendre un certain de nombre de chose.
+Mon but est d’essayer de vous faire partir dans ce jeu du bon pied selon votre style !&lt;/p&gt;</content:encoded></item></channel></rss>
