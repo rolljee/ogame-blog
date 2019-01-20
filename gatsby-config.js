@@ -3,8 +3,8 @@ module.exports = {
   siteMetadata: {
     title: `Ogame-blog`,
     author: `rolljee`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://ogame-blog-demo.netlify.com/`,
+    description: `An Ogame blog by an ogame player`,
+    siteUrl: `https://rolljee.github.io/ogame-blog/`,
     social: {
       twitter: `rolljee`,
     },
