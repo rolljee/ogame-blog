@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ogame-blog]]></title><description><![CDATA[An Ogame blog by an ogame player]]></description><link>https://rolljee.github.io/ogame-blog/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 21 Jan 2019 16:08:47 GMT</lastBuildDate><item><title><![CDATA[Introduction à Ogame]]></title><description><![CDATA[Nous allons dans ce blog aborder les fondamentaux de Ogame. Les différentes façon de jouer Les tips & trick relatif au bon début de jeu Les…]]></description><link>https://rolljee.github.io/ogame-blog//introduction/</link><guid isPermaLink="false">https://rolljee.github.io/ogame-blog//introduction/</guid><pubDate>Sat, 20 Jan 2018 22:21:00 GMT</pubDate><content:encoded>&lt;p&gt;Nous allons dans ce blog aborder les fondamentaux de Ogame.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ogame-blog]]></title><description><![CDATA[An Ogame blog by an ogame player]]></description><link>https://rolljee.github.io/ogame-blog/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 21 Jan 2019 20:42:31 GMT</lastBuildDate><item><title><![CDATA[Introduction à Ogame]]></title><description><![CDATA[Le Mieneur sous toutes ses formes Dans cette partie nous allons parler de la partie minère du jeu et comment orienter votre compte pour…]]></description><link>https://rolljee.github.io/ogame-blog//mineur/</link><guid isPermaLink="false">https://rolljee.github.io/ogame-blog//mineur/</guid><pubDate>Sun, 21 Jan 2018 22:21:00 GMT</pubDate><content:encoded>&lt;h1&gt;Le Mieneur sous toutes ses formes&lt;/h1&gt;
+&lt;p&gt;Dans cette partie nous allons parler de la partie minère du jeu et comment orienter votre compte pour remplir au mieux votre compte de toutes ces ressources !!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Introduction à Ogame]]></title><description><![CDATA[Nous allons dans ce blog aborder les fondamentaux de Ogame. Je vais essayer dans chacun des blogs post de fournir un bon nombre d…]]></description><link>https://rolljee.github.io/ogame-blog//introduction/</link><guid isPermaLink="false">https://rolljee.github.io/ogame-blog//introduction/</guid><pubDate>Sat, 20 Jan 2018 22:21:00 GMT</pubDate><content:encoded>&lt;p&gt;Nous allons dans ce blog aborder les fondamentaux de Ogame.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -32,19 +33,21 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
+&lt;p&gt;Je vais essayer dans chacun des blogs post de fournir un bon nombre d’information sur tous les différents type de gameplay auquel nous pouvons faire face durant votre sejour sur un univers et aborder:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Les différentes façon de jouer&lt;/li&gt;
 &lt;li&gt;Les tips &amp;#x26; trick relatif au bon début de jeu&lt;/li&gt;
 &lt;li&gt;Les différents mots clés du jeu&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Rentrons tout de suite dans le vif du sujet et ne perdons pas de temps.&lt;/p&gt;
-&lt;p&gt;Les façons de jouer ? Il existe 3 grandes familles de joueurs pour qu’ensuite chacuns des différents style de jeu dérive d’une des classes mère.&lt;/p&gt;
+&lt;p&gt;Rentrons tout de suite dans le vif du sujet et ne perdons pas de temps ! Avant de pouvoir parler en profondeur de chaque sujet, il faut nous poser une simple question&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quels sont Les façons de jouer à Ogame ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il existe 3 grandes familles de joueurs pour qu’ensuite chacuns des différents style de jeu dérive d’une des classes mère.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Les Raideurs&lt;/li&gt;
 &lt;li&gt;Les Mineurs&lt;/li&gt;
 &lt;li&gt;Les Deutiers&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Pour les Raiders nous avons les sous-catégories reconnues&lt;/p&gt;
+&lt;p&gt;Pour les Raiders nous avons les sous-catégories reconnues par la communautée&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Raiders aggro&lt;/li&gt;
 &lt;li&gt;Raiders défensif&lt;/li&gt;
@@ -55,10 +58,46 @@
 &lt;li&gt;Mineur défensif (ou aussi appellé Turtle).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Et la même chose pour les Deutiers !&lt;/p&gt;
-&lt;p&gt;Jusqu’à maintenant rien de bien bien compliqué, mais poser les bases c’est toujours ce qu’il faut faire !!&lt;/p&gt;
-&lt;p&gt;Pour ma part j’ai toujours appriécié le mineur aggressif ! (C’est mon style de jeu).&lt;/p&gt;
-&lt;p&gt;Je commence l’univers sur des basae mineur, en montant toutes mes mines et en essayant de récupérer le plus de planètes possible en early game.&lt;/p&gt;
-&lt;p&gt;
+&lt;p&gt;Jusqu’à maintenant rien de bien bien compliqué, mais poser les bases c’est toujours important !&lt;/p&gt;
+&lt;p&gt;J’ai toujours appriécié le mineur aggressif ! Un style un peu tapette en early mais qui fait vite fureur lorsque votre production de matière première devient conséquente sur chacune de vos planètes.&lt;/p&gt;
+&lt;p&gt;Je commence l’univers sur des bases minières, en montant l’intégralité des bâtiments de production et en essayant de récupérer le plus de planètes possible en early game généralement placée en X:XXX:8 ou 9 pour que celle-ci est un maximum de place. Mais nous reviendront sur le nombres de place des planètes et leur positionement dans le système solaire.&lt;/p&gt;
+&lt;p&gt;Lorsque que j’ai arrété mon compte sur Spica mon compte avait plus de 8 millions de points.&lt;/p&gt;
+&lt;p&gt;Voici quelque screenshot que j’ai pu garder&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Un joli nombre de planète&lt;/strong&gt;
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 194px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 354.12371134020617%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;planets&quot;
+        title=&quot;&quot;
+        src=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png&quot;
+        srcset=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8c620/planets.png 148w,
+/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png 194w&quot;
+        sizes=&quot;(max-width: 194px) 100vw, 194px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;De belles mines sur 11 planètes&lt;/strong&gt;
+
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/cdf6e/ressources.png&quot;
@@ -92,41 +131,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Par la suite quand viens le moment de former notre première EDLM (RIP), je passe Raideur !&lt;/p&gt;
-&lt;p&gt;Un joli nombre de planètes !
-
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 194px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 354.12371134020617%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;planets&quot;
-        title=&quot;&quot;
-        src=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png&quot;
-        srcset=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8c620/planets.png 148w,
-/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png 194w&quot;
-        sizes=&quot;(max-width: 194px) 100vw, 194px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;Une belle petite flotte !
+&lt;p&gt;&lt;strong&gt;Une belle petite flotte&lt;/strong&gt;
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
