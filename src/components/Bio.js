@@ -18,12 +18,8 @@ function Bio() {
             }}
           >
             <p>
-              Written by <strong>{author}</strong> who lives and works in France
-              building useful things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
+              Written by <strong>{author}</strong>.{` `}
+              <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
             </p>
           </div>
         )
