@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ogame-blog]]></title><description><![CDATA[An Ogame blog by an ogame player]]></description><link>https://rolljee.github.io/ogame-blog/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 21 Jan 2019 21:38:57 GMT</lastBuildDate><item><title><![CDATA[Plugins]]></title><description><![CDATA[Abordons l’aspect plugins L’interface d’ogame comporte en elle même beaucoup d’informations, mais naturellement nous en temps que joueur en…]]></description><link>https://rolljee.github.io/ogame-blog//plugins/</link><guid isPermaLink="false">https://rolljee.github.io/ogame-blog//plugins/</guid><pubDate>Sun, 21 Jan 2018 22:21:00 GMT</pubDate><content:encoded>&lt;h1&gt;Abordons l’aspect plugins&lt;/h1&gt;
-&lt;p&gt;L’interface d’ogame comporte en elle même beaucoup d’informations, mais naturellement nous en temps que joueur en voulons toujours plus…&lt;br&gt;
-C’est pour cela que dans cette partie, je vais aborder une liste complètement arbitraire, puisque je vais vous parler des plugins que j’utilise personnellement !&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ogame-blog]]></title><description><![CDATA[An Ogame blog by an ogame player]]></description><link>https://rolljee.github.io/ogame-blog/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 15 Jul 2019 11:45:39 GMT</lastBuildDate><item><title><![CDATA[Plugins]]></title><description><![CDATA[Abordons l’aspect plugins L’interface d’ogame comporte en elle même beaucoup d’informations, mais naturellement nous en temps que joueur en…]]></description><link>https://rolljee.github.io/ogame-blog//plugins/</link><guid isPermaLink="false">https://rolljee.github.io/ogame-blog//plugins/</guid><pubDate>Sun, 21 Jan 2018 22:21:00 GMT</pubDate><content:encoded>&lt;h1&gt;Abordons l’aspect plugins&lt;/h1&gt;
+&lt;p&gt;L’interface d’ogame comporte en elle même beaucoup d’informations, mais naturellement nous en temps que joueur en voulons toujours plus…&lt;/p&gt;
+&lt;p&gt;C’est pour cela que dans cette partie, je vais aborder une liste complètement arbitraire, puisque je vais vous parler des plugins que j’utilise personnellement !&lt;/p&gt;
 &lt;p&gt;Ils se comptent sur les doigts d’une main, mais à eux tous ils améliorement drastiquement votre experience du jeu.
-Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte au jeu et avec un peu de chance cela fera naître en vous l’envie de l’utiliser ! (du moins je l’espère).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Introduction à Ogame]]></title><description><![CDATA[Nous allons dans ce blog aborder les fondamentaux de Ogame. Je vais essayer dans chacun des blogs post de fournir un bon nombre d…]]></description><link>https://rolljee.github.io/ogame-blog//introduction/</link><guid isPermaLink="false">https://rolljee.github.io/ogame-blog//introduction/</guid><pubDate>Sat, 20 Jan 2018 22:21:00 GMT</pubDate><content:encoded>&lt;p&gt;Nous allons dans ce blog aborder les fondamentaux de Ogame.&lt;/p&gt;
+Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte au jeu et avec un peu de chance cela fera naître en vous l’envie de l’utiliser ! (du moins je l’espère).&lt;/p&gt;
+&lt;p&gt;Pour cela il va falloir que vous choisissiez votre naviguateur, pour ces extentions il vous faudra prendre google chrome.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/antigamereborn/mhfbpacbhjchkjeopjfgdhckepclcfll&quot;&gt;Antigame-origine&lt;/a&gt; maintenant appelé Antigame-reborn car le développement à repris !!! Enfin.&lt;/li&gt;
+&lt;li&gt;OGame Nearby Players&lt;/li&gt;
+&lt;li&gt;OGame UI++&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A elles trois, elles permettent d’avoir tous ce que Ogame ne vous offre pas de base. Laissez moi vous l’expliquer plus en détails.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Introduction à Ogame]]></title><description><![CDATA[Nous allons dans ce blog aborder les fondamentaux de Ogame. Je vais essayer dans chacun des blogs post de fournir un bon nombre d…]]></description><link>https://rolljee.github.io/ogame-blog//introduction/</link><guid isPermaLink="false">https://rolljee.github.io/ogame-blog//introduction/</guid><pubDate>Sat, 20 Jan 2018 22:21:00 GMT</pubDate><content:encoded>&lt;p&gt;Nous allons dans ce blog aborder les fondamentaux de Ogame.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/5979c/ogame-screen.jpg&quot;
+    href=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/98431/ogame-screen.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -25,10 +32,10 @@ Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Ogame screenshot&quot;
         title=&quot;&quot;
-        src=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/5979c/ogame-screen.jpg&quot;
-        srcset=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/c0f52/ogame-screen.jpg 148w,
-/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/da7c2/ogame-screen.jpg 295w,
-/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/5979c/ogame-screen.jpg 480w&quot;
+        src=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/98431/ogame-screen.jpg&quot;
+        srcset=&quot;/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/8ee9c/ogame-screen.jpg 148w,
+/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/ebbe7/ogame-screen.jpg 295w,
+/ogame-blog/static/3acc4d2bceaac8ce6fd36e5812557c58/98431/ogame-screen.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
       /&gt;
     &lt;/span&gt;
@@ -70,7 +77,7 @@ Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png&quot;
+    href=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/d3ffe/planets.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -89,9 +96,9 @@ Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;planets&quot;
         title=&quot;&quot;
-        src=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png&quot;
-        srcset=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8c620/planets.png 148w,
-/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/8d59f/planets.png 194w&quot;
+        src=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/d3ffe/planets.png&quot;
+        srcset=&quot;/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/cf440/planets.png 148w,
+/ogame-blog/static/a400aaab14cca371dcbca14fb76872e3/d3ffe/planets.png 194w&quot;
         sizes=&quot;(max-width: 194px) 100vw, 194px&quot;
       /&gt;
     &lt;/span&gt;
@@ -103,7 +110,7 @@ Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/cdf6e/ressources.png&quot;
+    href=&quot;/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/97281/ressources.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -122,11 +129,11 @@ Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;ressources&quot;
         title=&quot;&quot;
-        src=&quot;/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/fb8a0/ressources.png&quot;
-        srcset=&quot;/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/1a291/ressources.png 148w,
-/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/2bc4a/ressources.png 295w,
-/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/fb8a0/ressources.png 590w,
-/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/cdf6e/ressources.png 742w&quot;
+        src=&quot;/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/b9e4f/ressources.png&quot;
+        srcset=&quot;/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/cf440/ressources.png 148w,
+/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/d2d38/ressources.png 295w,
+/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/b9e4f/ressources.png 590w,
+/ogame-blog/static/5600b93a0ad3285b277d8b06759611c5/97281/ressources.png 742w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -138,7 +145,7 @@ Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ogame-blog/static/2680ee815179426d1dde08c012b01097/8189c/flotte.png&quot;
+    href=&quot;/ogame-blog/static/2680ee815179426d1dde08c012b01097/fddbb/flotte.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -157,11 +164,11 @@ Je vais essayer de survoler l’ensemble des fonctionnalités que chacun apporte
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;flotte&quot;
         title=&quot;&quot;
-        src=&quot;/ogame-blog/static/2680ee815179426d1dde08c012b01097/fb8a0/flotte.png&quot;
-        srcset=&quot;/ogame-blog/static/2680ee815179426d1dde08c012b01097/1a291/flotte.png 148w,
-/ogame-blog/static/2680ee815179426d1dde08c012b01097/2bc4a/flotte.png 295w,
-/ogame-blog/static/2680ee815179426d1dde08c012b01097/fb8a0/flotte.png 590w,
-/ogame-blog/static/2680ee815179426d1dde08c012b01097/8189c/flotte.png 736w&quot;
+        src=&quot;/ogame-blog/static/2680ee815179426d1dde08c012b01097/b9e4f/flotte.png&quot;
+        srcset=&quot;/ogame-blog/static/2680ee815179426d1dde08c012b01097/cf440/flotte.png 148w,
+/ogame-blog/static/2680ee815179426d1dde08c012b01097/d2d38/flotte.png 295w,
+/ogame-blog/static/2680ee815179426d1dde08c012b01097/b9e4f/flotte.png 590w,
+/ogame-blog/static/2680ee815179426d1dde08c012b01097/fddbb/flotte.png 736w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
