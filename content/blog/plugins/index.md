@@ -17,5 +17,10 @@ Pour cela il va falloir que vous choisissiez votre naviguateur, pour ces extenti
 1. [Antigame-origine](https://chrome.google.com/webstore/detail/antigamereborn/mhfbpacbhjchkjeopjfgdhckepclcfll) maintenant appelé Antigame-reborn car le développement à repris !!! Enfin.
 2. OGame Nearby Players
 3. OGame UI++
+4. TamperMonkey un utilitaire pour rajouter des scripts (on en reparlera dans la catégorie qui lui est dédié)
 
-A elles trois, elles permettent d'avoir tous ce que Ogame ne vous offre pas de base. Laissez moi vous l'expliquer plus en détails.
+A elles quatres, elles permettent d'avoir tous ce que Ogame ne vous offre pas de base. Laissez moi vous l'expliquer plus en détails.
+
+## Antigame Reborn
+
+Surement le plugin d'ogame offrant le plus de fonctionnalités, avec l'appuie de screenshot je vais vous expliquer les features que j'utilise le plus.
